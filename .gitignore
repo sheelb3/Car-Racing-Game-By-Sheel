@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.tools/
+.npm-cache/
+.pw-browsers/
+.chrome-profile/
+.vite/
+npm-debug.log*
+dev-server.log
+dev-server.err
+verification-*.png
